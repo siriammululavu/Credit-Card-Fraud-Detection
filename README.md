@@ -67,8 +67,5 @@ Credit_Card_Fraud_Detection_ML/
 - Demonstrated feature importance & visualization
 - Compared multiple ML models for fraud detection
 
-## 📄 Report
-For in-depth methodology, results, and analysis, refer to:  
-📘 `report.pdf`
 
 
